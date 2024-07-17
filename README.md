@@ -3,7 +3,7 @@
 This is a meta repository containing all documentation related to the Medium Cost Open (MeCO) AUV. This is a living 
 document that will undergo changes over the life of the project. To access the wiki page, use the following link:
 
-- [MeCO Wiki](https://github.umn.edu/meco-auv/meco-docs/wiki) 
+- [MeCO Wiki](https://github.com/MeCO-AUV/MeCO-Documentation/wiki)
 
 ## GitHub Repositories
 
